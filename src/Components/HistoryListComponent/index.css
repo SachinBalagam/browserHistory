@@ -1,0 +1,34 @@
+.each-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+.item-content-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 40px;
+}
+.time {
+  font-family: 'Roboto';
+  color: #64748b;
+  margin-right: 50px;
+}
+.item-image {
+  width: 30px;
+  margin-right: 10px;
+}
+.title {
+  font-family: 'Roboto';
+  color: #475569;
+  margin-right: 20px;
+}
+.domain {
+  color: #64748b;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
